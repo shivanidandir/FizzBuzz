@@ -1,2 +1,2 @@
 # Games
-a python game
+ python games
