@@ -1,2 +1,2 @@
-# FizzBuzz
+# Games
 a python game
